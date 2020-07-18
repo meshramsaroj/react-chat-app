@@ -1,0 +1,16 @@
+.inputMsg input {
+    outline: 0;
+    box-shadow: none;
+}
+
+.inputMsg input,button {
+    font-weight: 300;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.inputMsg button {
+    height : 50px;
+    text-transform: uppercase;
+
+}
